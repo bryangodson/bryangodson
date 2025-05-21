@@ -1,4 +1,4 @@
-# Hey there 👋, I'm <a href="https://www.linkedin.com/in/papa-kwaku-danquah-469934203/" target="_blank">*Papa Kwaku Danquah*</a>. You can also call me **Bryan**.
+# Hey there 👋, <a href="https://www.linkedin.com/in/papa-kwaku-danquah-469934203/" target="_blank">*Bryan Godson*</a> here.
 
 ## ⚡ About Me
 
@@ -29,33 +29,35 @@ My personal mission?
 
 ## 🛠️ My Most used Tools & Languages
 
-<p align="center">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-52b0e7?style=for-the-badge&logo=sequelize&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-0078D4?style=for-the-badge&logo=React%20Native&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
-
- <!--- <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+<p align="center"> 
+  <!-- Programming Languages -->
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
-   --->
-   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</p>
+  
+  <!-- Frontend -->
+  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img alt="React JS" src="https://img.shields.io/badge/react.js-0078D4?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Next JS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  
+  <!-- Mobile -->
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-0078D4?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
----
+  <!-- Backend & Tools -->
+  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+
+  <!-- Tools -->
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2314354C.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ## 📊 GitHub Stats
 
