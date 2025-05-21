@@ -14,7 +14,7 @@ On the web dev side, I build with **React, Next.js,Vite, Express, Node.js, Seque
 My personal mission?  
 **To create and launch products that not only work—but *wow*.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F7FC&vCenter=true&width=435&lines=Full-stack+Engineer!;Building+startups+that+solve+real+problems;Always+learning...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=17F7FC&vCenter=true&width=435&lines=Full-stack+Engineer!;Building+startups+solving+problems;Always+learning...)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=bryangodson&label=Profile%20views&color=0e75b6&style=flat" alt="Bryan Godson" />
 
