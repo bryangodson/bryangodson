@@ -62,11 +62,10 @@ My personal mission?
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryangodson&show_icons=true&theme=transparent&hide_border=true" alt="Bryan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bryangodson&show_icons=true&theme=transparent&hide_border=true&hide=stars,issues&hide_rank=true" alt="Bryan's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bryangodson&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Bryan's GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryangodson&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ### 👀 Let’s Build Something Legendary  
