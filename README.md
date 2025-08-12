@@ -6,10 +6,10 @@
 
 I’m Bryan, a passionate full-stack engineer, from Ghana 🇬🇭. I live at the intersection of **code and creativity**, always chasing smart, scalable solutions to real-world problems.
 
-By day, I build scalable applications and backend architectures. By night, I’m either tinkering with ideas, or absorbing the latest in software engineeringa and website development, economics, and startup innovation.
+By day, I build scalable applications and backend architectures. By night, I’m either tinkering with ideas, or absorbing the latest in software engineering and website development, economics, and startup innovation.
 
-I am mostly a js guy. I code fluently in **JavaScript and TypeScript**, and incrementally on Dart,Flutter, C++, R and Python (well..becaue automation is life 😄),   
-On the web dev side, I build with **React, Next.js,Vite, Express, Node.js, Sequelize, MySQL and Mongodb with Mongoose**, and on mobile, I dive deep with **React Native and Expo** and Flutter in the pipe line.
+I am mostly a js/ts guy. I code fluently in **JavaScript and TypeScript**, and incrementally on Dart,Flutter, C++, R and Python (well..becaue automation is life 😄),   
+On the web dev side, I build with **React, Next.js,Vite, Express, Node.js, Sequelize, MySQL and Mongodb with Mongoose**, and on mobile, I dive deep with **React Native and Expo** , Flutter in the pipe line.
 
 My personal mission?  
 **To create and launch products that not only work—but *wow*.**
@@ -20,10 +20,10 @@ My personal mission?
 
 ---
 
-- 👨‍🎓 Currently studying the *R and Flutter*
-- 💼 Building a production-ready SaaS app for African campus entrepresneurs and beyond💡
-- 🚀 Founder in progress. Multiple startup ideas in the oven. Stay tuned!
-- 📫 How to reach me: **[ppdnquh@gmail.com](mailto:ppdnquh@gmail.com)**  
+- 👨‍🎓 Currently studying  *R,Go and Flutter*
+- 💼 Building a production-ready SaaS app for African campus entrepreneurs and beyond💡
+- 🚀 Founder in progress.Stay tuned!
+- 📫 How to reach me: **[email me](mailto:ppdnquh@gmail.com)**  
 
 ---
 
