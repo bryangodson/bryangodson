@@ -66,6 +66,15 @@ My personal mission?
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bryangodson&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Bryan's GitHub streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryangodson&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bryangodson&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
+
+### 🤌 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bryangodson&limit=3&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
 ---
 
 ### 👀 Let’s Build Something Legendary  
