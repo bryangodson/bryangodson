@@ -34,7 +34,7 @@ My personal mission?
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <!--   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" /> -->
-<!--   <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /> -->
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   
   <!-- Frontend -->
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -70,10 +70,6 @@ My personal mission?
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bryangodson&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-
-### 🤌 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bryangodson&limit=3&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
 
